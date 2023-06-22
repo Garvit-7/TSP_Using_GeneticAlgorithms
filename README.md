@@ -78,7 +78,7 @@ The scope of this project can be extended in several ways:
 
 - **Algorithmic Variations**: Explore and compare different variations of the Genetic Algorithm, such as different selection strategies (tournament selection, rank-based selection) or exploring alternative evolutionary algorithms (ant colony optimization, simulated annealing).
 
-
+**Thank you for visiting this repository, feel free to issue a pull request!!**
 
 
 
