@@ -6,7 +6,9 @@ This project implements a solution to the Traveling Salesman Problem (TSP) using
 To access the repository and use this project, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-```git clone https://github.com/khushi0706/TSP_Using_GeneticAlgorithms.git```
+```
+git clone https://github.com/khushi0706/TSP_Using_GeneticAlgorithms.git
+```
 
 
 
