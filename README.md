@@ -1,10 +1,13 @@
-# TSP_problem
-TSP is a well known optimization problem which involves finding the shortest possible route for a salesman to visit a given set of cities and return to the starting city, while visiting each cityexactly once.
-Various approaches to solve the TSP problem
-Currently has two approaches, genetic algorithm and  brute force.
-Brute force calculates all paths
-### Step 1:
+# Travelling Salesman Problem Using Genetic Algorithm
+This project implements a solution to the Traveling Salesman Problem (TSP) using a Genetic Algorithm. The TSP is a classic optimization problem where the goal is to find the shortest possible route that visits a given set of cities and returns to the starting city.
 
-Download the files and open sketch.html
+# How to Access the Repository
+
+To access the repository and use this project, follow these steps:
+
+1. Clone the repository to your local machine using the following command:
+`git clone https://github.com/khushi0706/TSP_Using_GeneticAlgorithms.git`
+
+
 
 
