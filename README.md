@@ -1,7 +1,7 @@
 # Travelling Salesman Problem Using Genetic Algorithm
 This project implements a solution to the Traveling Salesman Problem (TSP) using a Genetic Algorithm. The TSP is a classic optimization problem where the goal is to find the shortest possible route that visits a given set of cities and returns to the starting city.
 
-# How to Access the Repository
+## How to Access the Repository
 
 To access the repository and use this project, follow these steps:
 
@@ -16,8 +16,7 @@ cd TSP_Using_GeneticAlgorithms
 
 ## Project Structure
 
-The repository is structured as follows:
-Inside the Genetic algorithm Solution Directory:-
+The repository is structured as follows,inside the `Travelling Sales person problem` Directory:-
 1. `index.html`: This is the main HTML file that contains the visualization of the TSP solution. It uses web technologies like HTML, CSS, and JavaScript to render the solution graphically.
 2. `ga.js`: This file contains the implementation of the genetic algorithm for solving the TSP. It defines the genetic operators such as selection, crossover, and mutation.
 3. `sketch.js`: This file defines the set of cities and their coordinates. You can modify this file to change the problem instance.
